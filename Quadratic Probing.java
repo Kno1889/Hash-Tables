@@ -1,5 +1,6 @@
-package Hash.Tables;
+// package Hash.Tables;
 // most things for this class are similar to the linear probing one, with a few exceptions
+
 public class HashTableQuad {
     private Integer[] table;
     private int tableSize; // stays constant until rehashing
