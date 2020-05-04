@@ -1,4 +1,4 @@
-package Hash.Tables;
+// package Hash.Tables;
 
 public class HashTableLin {
     // all instance fields private.....
