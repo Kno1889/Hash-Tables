@@ -1,4 +1,4 @@
-package Hash.Tables;
+// package Hash.Tables;
 import java.util.Random;
 
 public class Main {
